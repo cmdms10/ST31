@@ -94,5 +94,17 @@
         android:layout_height="wrap_content"
         android:text="身長・体重を入力してください" />
 
+    <TextView
+        android:id="@+id/justWeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="適正体重は・・・" />
+
+    <TextView
+        android:id="@+id/obesity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="あなたの肥満度は・・・" />
+
 
 </LinearLayout>
