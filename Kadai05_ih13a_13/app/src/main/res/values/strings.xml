@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kadai05_ih13a_13</string>
+    <string name="Title">課題05　じゃんけんアプリ</string>
+    <string name="author">IH13A283  島田雅人</string>
+
+    <string name="Achievement"></string>
+    <string name="win">勝</string>
+    <string name="lose">敗</string>
+    <string name="draw">分け</string>
+    <string name="winNum">0</string>
+    <string name="loseNum">0</string>
+    <string name="drawNum">0</string>
+    <string name="reset">リセット</string>
+    <string name="back">戻る</string>
+
+    <string name="name"></string>
+    <string name="submit">決定</string>
+    <string name="language">↑名前を入力</string>
+
+</resources>
